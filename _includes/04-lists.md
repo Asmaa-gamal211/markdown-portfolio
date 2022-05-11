@@ -1,1 +1,9 @@
-Replace this with a list of your favorite things.
+# imojis
+:palm_tree:
+:red_car:
+:blue_heart:
+
+# lists
+- one
+- two
+- three
